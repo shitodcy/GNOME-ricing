@@ -1,6 +1,4 @@
-| Extension                                                                                   |
-| ------------------------------------------------------------------------------------------- |
-![extension](https://github.com/shitodcy/GNOME-ricing/blob/main/image/extension/extension.png)
+
 
 
 | Preview                                                                                     |
@@ -8,7 +6,7 @@
 ![preview-1](https://github.com/shitodcy/GNOME-ricing/blob/main/image/screenshot/screenshot-1.png)
 ![preview-2](https://github.com/shitodcy/GNOME-ricing/blob/main/image/screenshot/screenshot-2.png)
 
-| Ekstension & App                                                                                                  |
+| Extension & App                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------- |
 | **[Open Bar](https://extensions.gnome.org/extension/6580/open-bar/)** |
 | **[Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)** |
